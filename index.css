@@ -1,0 +1,38 @@
+
+body{
+    background-color: aqua;
+    background-size: cover;
+    justify-content: center;
+}
+.box{
+    display: flex;
+    width: 700px;
+    height: 300px;
+    background-color: skyblue;
+    position: fixed;
+    margin-left: 350px;
+    margin-top: 200px;
+    margin-bottom: 520px;
+    margin-right: 400px;
+    border-radius: 5px;
+    
+}
+.row{
+    margin-left: 10px;
+    padding-top: 16px;
+    -webkit-text-fill-color:rgb(1, 1, 48);
+}
+.Questions{
+    margin-left: 95px;
+    margin-top:30px ;
+
+}
+.btn{
+    background-color: aqua;
+    width: 40%;
+    padding:2px;
+    margin-top: 10px;
+    font-size: 15px;
+    color: rgb(1, 27, 75);
+    position: fixed;
+}
